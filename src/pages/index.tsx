@@ -4,7 +4,7 @@ import React from 'react';
 
 export default function Home() {
 	// noinspection HtmlUnknownTarget
-	return <Container sx={{ pt: 2 }}>
+	return <Container sx={{ pt: 1 }}>
 		<Typography variant='h5'>Invoiss Interview</Typography>
 		<List>
 			<Link href='/question1' passHref>
